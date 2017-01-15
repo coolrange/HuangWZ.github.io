@@ -1,47 +1,37 @@
-# Webjeda Gatok Theme
+## Welcome to GitHub Pages
 
-[**Demo**](http://webjeda.com/gatok)
+You can use the [editor on GitHub](https://github.com/coolrange/HuangWz.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-# Installation: 
-Fork the ``master`` branch and delete ``gh-pages`` branch in it. This is important because ``gh-pages`` branch is used here only to host the blog. You should be using the master branch as the source and create a fresh ``gh-pages`` branch.
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-Watch my video on instlallation
-<iframe width="100%" height="360" src="https://www.youtube.com/embed/T2nx6tj-ZH4?rel=0" frameborder="0" allowfullscreen></iframe>
+### Markdown
 
-## How to delete old **gh-pages** branch?
-After forking the repository, click on **branches**.
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-![delete gh-pages branch](http://blog.webjeda.com/images/delete-github-branch.png)
+```markdown
+Syntax highlighted code block
 
-Delete ``gh-pages`` branch.
-![delete gh-pages branch](http://blog.webjeda.com/images/delete-github-branch-2.png)
+# Header 1
+## Header 2
+### Header 3
 
-You have to create a new ``gh-pages`` branch using the master branch. Go back to the forked repository and create ``gh-pages`` branch.
+- Bulleted
+- List
 
-![create gh-pages branch](http://blog.webjeda.com/images/create-gh-pages-branch.JPG)
+1. Numbered
+2. List
 
-Now, go to settings and check the **Github Pages** section. You should see a URL where the blog is hosted.
+**Bold** and _Italic_ and `Code` text
 
-This process will host the theme as a **Project Page**. You can also download the files for local development. 
+[Link](url) and ![Image](src)
+```
 
-Default theme will look like this
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-![webjeda gatok jekyll theme](/images/webjeda-gatok-jekyll-theme-screenshot-1.png)
+### Jekyll Themes
 
-Hover on the left side for a 3d sidebar!
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/coolrange/HuangWz.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-![webjeda gatok jekyll theme sidebar](/images/webjeda-gatok-jekyll-theme-screenshot.jpg)
+### Support or Contact
 
-
-This theme is responsive.
-
-![webjeda gatok responsive jekyll theme](/images/webjeda-gatok-jekyll-theme-screenshot-2.png)
-
-
-
-# Development
-Make changes to the **master** branch and create a pull request. Do not use **gh-pages** branch as it is used to host the theme.
-
-
-# License
-Read LICENSE file
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
